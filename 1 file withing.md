@@ -1,9 +1,8 @@
-# Startale-Test-Page
+# Startale-Test-Page #2
 
 ## Just a Test
 
-### Here are the directions
-- start by opening a page at [Startale](https://startale.com/en)
+### Here are more directions
 - *then follow copy this code:*
 
 `here is some code from marketing gurus`
